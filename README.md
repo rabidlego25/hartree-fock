@@ -2,10 +2,6 @@
 
 **Author:** Austin Tabb
 
-# An Application of Self-Consistent Fields (SCF) and Mean-Field Theory (MFT)
-
-**Author:** Austin Tabb
-
 ---
 
 ### Many-Body Systems
